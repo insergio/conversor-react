@@ -1,0 +1,40 @@
+.grupo{
+	text-align: center;
+	display: inline-block;
+	margin-left: 4px;
+}
+
+.g1{
+
+	padding-right: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	background-color: #5e6c82;
+}
+
+.g2{
+	padding-right: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	background-color: #595959;
+	margin-top: 5px;
+}
+.input{
+	width: 557px;
+	height: 40px;
+    padding: 12px 20px;
+    font-size: 30px;
+    background-color: #595959;
+    border:none;
+    color:white;
+}
+.icon{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin-top: 50px;
+	margin-left: 60px;
+	margin-right:100px;
+}
